@@ -11,11 +11,8 @@
 - Historico de compras
 - Carrinho
 - Cadastrar
+- Footer fixo
 
-### O que não funciona
-- Input de procurar restaurantes 
-- comprar de produtos
-- sair do app
 
 ### Link Surge 
 
