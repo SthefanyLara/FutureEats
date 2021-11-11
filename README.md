@@ -1,5 +1,5 @@
 
-## Projeto 4Food
+## Projeto 4Food - Em desenvolvimento
 
 ### FutureEats
 
@@ -15,7 +15,6 @@
 ### O que não funciona
 - Input de procurar restaurantes 
 - comprar de produtos
-- footer posição fixa
 - sair do app
 
 ### Link Surge 
