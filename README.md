@@ -18,6 +18,15 @@
 
 stiff-side.surge.sh
 
+<h2>Tecnologias utilizadas</h2>
+
+<ul>
+  <li>ReactJs
+  <li>HTML5 
+  <li>CSS e Styled Components 
+  <li>Material UI
+
+</ul>
 
 ### Imagens
 ![image](https://user-images.githubusercontent.com/84422472/140741243-1914f481-70d7-4aa0-8985-711e951f1d47.png)
@@ -31,12 +40,4 @@ stiff-side.surge.sh
 ![image](https://user-images.githubusercontent.com/84422472/140741934-35ccb7b5-d96c-4247-a22c-dcb2e2be6c94.png)
 ![image](https://user-images.githubusercontent.com/84422472/140741955-5007862e-4b94-491f-9af1-d0118dda82b3.png)
 
-<h2>Tecnologias utilizadas</h2>
 
-<ul>
-  <li>ReactJs
-  <li>HTML5 
-  <li>CSS e Styled Components 
-  <li>Material UI
-
-</ul>
