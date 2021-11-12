@@ -29,15 +29,21 @@ stiff-side.surge.sh
 </ul>
 
 ### Imagens
-![image](https://user-images.githubusercontent.com/84422472/140741243-1914f481-70d7-4aa0-8985-711e951f1d47.png)
-![image](https://user-images.githubusercontent.com/84422472/140741315-efc02120-a837-426d-8a15-4131eee58453.png)
-![image](https://user-images.githubusercontent.com/84422472/140741341-a5210701-fb8f-4503-ab82-8ab3e38c9b0c.png)
-![image](https://user-images.githubusercontent.com/84422472/140741401-46477dc4-2ca0-43e7-bcc8-0a14a507cd09.png)
-![image](https://user-images.githubusercontent.com/84422472/140741546-15491e8d-c3c2-4b6d-9fab-de2841a607d4.png)
-![image](https://user-images.githubusercontent.com/84422472/140741579-1c42b713-c27d-41c3-bf97-ed883e5bb30f.png)
-![image](https://user-images.githubusercontent.com/84422472/140741607-34dd3924-8f69-474f-8017-485ef27cf7ab.png)
-![image](https://user-images.githubusercontent.com/84422472/140741914-952b0ee3-873b-45b3-9f25-3057958a491b.png)
-![image](https://user-images.githubusercontent.com/84422472/140741934-35ccb7b5-d96c-4247-a22c-dcb2e2be6c94.png)
-![image](https://user-images.githubusercontent.com/84422472/140741955-5007862e-4b94-491f-9af1-d0118dda82b3.png)
+![image](https://user-images.githubusercontent.com/88106798/141390898-04054d0a-0280-43ee-89df-c1c98029ef2e.png)
+![image](https://user-images.githubusercontent.com/88106798/141391018-7696d16a-56d5-4cb2-a527-8abc7860167a.png)
+![image](https://user-images.githubusercontent.com/88106798/141391118-6ccde0ba-c4aa-4bfc-bd86-18a888e6be16.png)
+![image](https://user-images.githubusercontent.com/88106798/141391143-aad98b82-0565-4e89-a48a-85cf743727b5.png)
+![image](https://user-images.githubusercontent.com/88106798/141391167-4b3d80a6-4812-45b4-87f8-2de12ea01a29.png)
+![image](https://user-images.githubusercontent.com/88106798/141391548-b25001f8-62f6-4d95-8336-092e0eca0f0c.png)
+![image](https://user-images.githubusercontent.com/88106798/141391222-6d7e8ccf-81b5-4bb3-9356-8aeffbf7a70d.png)
+![image](https://user-images.githubusercontent.com/88106798/141391255-304198b0-1902-4be7-8651-ef577375156d.png)
+![image](https://user-images.githubusercontent.com/88106798/141391302-e2d89f8c-6b0c-4675-828f-b95b15c71a36.png)
+![image](https://user-images.githubusercontent.com/88106798/141391342-b8f285dd-02bf-41cb-be22-42fc23daba09.png)
+
+
+
+
+
+
 
 
